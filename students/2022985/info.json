@@ -1,0 +1,7 @@
+{
+    "nombre": "Robert Gil",
+    "edad": 22,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 7,
+    "gustos" : ["Programar","Jugar videojuegos", "cocina", "musica"]
+}
