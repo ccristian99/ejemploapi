@@ -1,0 +1,7 @@
+{
+    "nombre": "Jesus Adrian Gomez",
+    "edad": 20,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 6,
+    "gustos" : ["Correr", "Dormir", "Viajar"]
+}
