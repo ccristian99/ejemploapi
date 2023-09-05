@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan Sebastian Getial Getial",
+    "edad": 20,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Gym","Caminar", "Comer", "Dormir"]
+}
