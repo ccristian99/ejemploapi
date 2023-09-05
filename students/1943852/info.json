@@ -1,0 +1,7 @@
+{
+    "nombre": "Cristian Llanos",
+    "edad": 24,
+    "carrera": "Ingeniería de software",
+    "semestre": 7,
+    "gustos" : ["Futbol","Dormir", "Bailar", "Viajar"]
+}
