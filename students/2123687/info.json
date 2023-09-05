@@ -1,0 +1,7 @@
+{
+    "nombre": "Mauricio Munoz",
+    "edad": 19,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Futbol","Comida", "Musica"]
+}
