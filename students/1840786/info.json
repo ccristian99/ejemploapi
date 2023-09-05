@@ -1,0 +1,7 @@
+{
+    "nombre": "Julian Alvarez",
+    "edad": 21,
+    "carrera": "Ingeniería en Sistemas",
+    "semestre": "factorial",
+    "gustos" : ["Guitarra","Musica", "Leer"]
+}
