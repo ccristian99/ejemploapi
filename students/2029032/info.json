@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan David Tovar Montoya",
+    "edad": 21,
+    "carrera": "systems engineering",
+    "semestre": 7,
+    "gustos" : ["soccer", "anime", "artificial intelligence", "panqueso"]
+}
