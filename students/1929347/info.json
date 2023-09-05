@@ -1,0 +1,7 @@
+{
+    "nombre": "Daniel Rosero",
+    "edad": 21,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Musica Rock","Gimnasio", "Videojuegos", "Viajar"]
+}
