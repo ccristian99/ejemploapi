@@ -1,0 +1,7 @@
+{
+    "nombre": "Isabela Rosero",
+    "edad": 19,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Musica","Libros", "Ver series", "Dormir"]
+}
